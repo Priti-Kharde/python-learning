@@ -4,3 +4,5 @@ print("U+1F929	")
 print("\U0001F929	")
 
 print("\U0001F618 \U0001F929")
+
+print("\U0001F618 ")
