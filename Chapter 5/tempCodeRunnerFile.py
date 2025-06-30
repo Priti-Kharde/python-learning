@@ -1,3 +1,4 @@
-print(matrix[0])
-# print(matrix[1])
-# print(matrix[2])
+ 
+    # print("Odd numbers are:", odd_nums)
+    
+    # print("Even numbers are:", even_nums)

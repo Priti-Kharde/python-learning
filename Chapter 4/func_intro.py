@@ -33,9 +33,9 @@
 
 ########################
 #print directly without using return
-def add_three(a,b,c):
-    print(a+b+c)
-add_three(3,4,5)
+# def add_three(a,b,c):
+#     print(a+b+c)
+# add_three(3,4,5)
 
 
 
