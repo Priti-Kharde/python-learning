@@ -14,11 +14,11 @@ def odd_even(l):
         else:
             odd_nums.append(i)
     
-    print("Odd numbers are:", odd_nums)
+    # print("Odd numbers are:", odd_nums)
     
-    print("Even numbers are:", even_nums)
-    
-    return [odd_nums, even_nums]
+    # print("Even numbers are:", even_nums)
+    output = [odd_nums,even_nums]
+    return output
 
 numbers = [1, 2, 3, 4, 5, 6, 7]
-odd_even(numbers) #function call
+print(odd_even(numbers)) #function call
