@@ -1,5 +1,5 @@
-# user = {'name' : 'priti','age': 24}
-# print(user)
+user = {'name' : 'priti','age': 24}
+print(user)
 
 
 #to access the data
