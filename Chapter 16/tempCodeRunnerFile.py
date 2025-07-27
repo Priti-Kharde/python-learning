@@ -1,0 +1,1 @@
+laptop2.discount_percent = 50
